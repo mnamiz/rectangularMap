@@ -3,8 +3,8 @@ package main;
 import java.util.Scanner;
 
 public class CountOfCountries {
-    static short N = 7;
-    static short M = 3;
+    static int N = 7;
+    static int M = 3;
     static int i;
 	static int j;
     static int A[][] = new int[N][M];
